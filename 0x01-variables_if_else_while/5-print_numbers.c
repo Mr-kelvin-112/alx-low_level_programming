@@ -1,6 +1,6 @@
 #include <stdio.h>
-/*
- * main - using for loop to print digits
+/**
+ * main - for loop to print digits
  *
  * Return: 0 always(success)
  */
